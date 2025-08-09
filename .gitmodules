@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "rCoinbase"]
 	path = rCoinbase
-	url = https://github.com/cran/rCoinbase
+	url = https://github.com/jgquantscripts/rcoinbase
